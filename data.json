@@ -1,0 +1,28 @@
+{
+    "Laptops":[
+        {
+            "id": 1,
+            "brand": "Lenovo",
+            "serialNumber": "K3DhQFhC",
+            "userName": "mossypomegranates"
+        },
+        {
+            "id": 2,
+            "brand": "HP",
+            "serialNumber": "K7pYRzM8",
+            "userName": "lawnmarinated"
+        },
+        {
+            "id": 3,
+            "brand":"Dell" ,
+            "serialNumber": "sshaXiBf",
+            "userName": "immaterialikea"
+        },
+        {
+            "id": 4,
+            "brand": "Apple",
+            "serialNumber": "QCpSt5JQ",
+            "userName": "sulphurbeginner"
+        }
+    ]
+}
